@@ -1,4 +1,4 @@
-![logo](https://github.com/gauravj-github/gauravj-github/blob/main/Dark%20Abstract%20Black%20Panther%20Gaming%20Logo.png)
+![logo]([https://github.com/gauravj-github/gauravj-github/blob/main/Dark%20Abstract%20Black%20Panther%20Gaming%20Logo.png](https://github.com/gauravj-github/gauravj-github/blob/main/Dark%20Abstract%20Black%20Panther%20Gaming%20Logo%20(1).png))
 <h1 align="center">Hi 👋, I'm Gaurav jharbade</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="400">
